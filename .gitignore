@@ -1,0 +1,4 @@
+.DS_Store
+*.py
+publish
+node_modules
